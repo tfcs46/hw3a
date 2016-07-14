@@ -1,0 +1,36 @@
+.rect123{
+   background: gold;
+   
+    text-align: center;
+    width:37px;
+    height: 37px;
+    border-radius: 50%;
+    line-height: :300px;
+    font-size: 27px;
+    
+}
+
+
+.a{
+    
+    color:red;
+    
+}
+
+.redcircle{
+  background: red;
+   color: white;
+    text-align: center;
+    width:37px;
+    height: 37px;
+    border-radius: 50%;
+    line-height: :300px;
+    font-size: 27px;   
+    
+}
+
+
+table { background: rgb(245, 224, 183);
+        
+
+}
